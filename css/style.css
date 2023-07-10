@@ -3,7 +3,7 @@
     --primary: #00b22a;
     --secondary: #006b05;
     --light: #F6F7F8;
-    --dark: #010A35;
+    --dark: #006b05;
 }
 
 .back-to-top {
@@ -397,7 +397,7 @@
 
 /*** Footer ***/
 .footer {
-    color: #7F8499;
+    color: #fff;
 }
 
 .footer .btn.btn-link {
